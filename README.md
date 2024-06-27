@@ -8,10 +8,12 @@ But copy cmd from C:\Windows\System32\cmd.exe and rename it.
 Ofc u can edit process and method. 
 ## Execution
 Basic use
-'''
+```
 .\hellokittySayHello.ps1
-'''
+```
+
 Clearing
-'''
+```
 .\hellokittySayHello.ps1 -clear
-'''
+```
+
